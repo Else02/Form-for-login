@@ -1,0 +1,22 @@
+body {
+    background-color: #999966;
+}
+div {
+    border: 3px solid lightgrey;
+    height: 510px;
+    width: 238px;
+    padding: 10px;
+    margin-left: 40%;
+    margin-top: 7%;
+    background-color: bisque;
+    border-radius: 5px;
+}
+#sub {
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #1a66ff;
+    color: azure;
+}
+#ran {
+    background-color: #1a66ff;
+}
